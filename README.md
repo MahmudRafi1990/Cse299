@@ -1,2 +1,2 @@
 # Cse299
-# go to branch masster
+# go to branch master
